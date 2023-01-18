@@ -1,7 +1,7 @@
 using static System.Console;
 using static System.String;
 
-//namespace CountingSort;
+
 public static class Infrastructure
 {
   /// <summary>
